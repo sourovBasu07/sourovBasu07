@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Sourov Basu
-🌟 **MERN Stack Developer | Full-Stack Engineer**
+🌟 **MERN Stack Developer | Full-Stack Developer**
 
 - 🤍 Committed to JS
 - 🤍 Interested in Programming
 - 🤍 MERN Stack Developer
-- 🤍 Focused on continuous learning tech stacks
+- 🤍 Focused on continuous learning of tech stacks
 - 🤍 Bachelor degree in CSE
 
 ---
@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on MERN Stack Projects
 - 💬 Ask me about JS, Next.js, MERN Stack
-- ⚡ Fun fact: JS is little bit weird
+- ⚡ Fun fact: JS is little bit weird but adorable
 
 ---
 
@@ -35,5 +35,11 @@
 
 ---
 
-Feel free to reach out for collaboration, discussion, or just to say hi! I'm always excited to connect with fellow developers and learn from the community.
+Feel free to reach out for collaboration, discussion, or just to say hi!   
+I'm always excited to connect with fellow developers and learn from the coding community.
+
+---
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourovBasu07&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourovBasu07&layout=compact&theme=radical)
 
