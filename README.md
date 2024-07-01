@@ -1,8 +1,12 @@
-## Hi there 👋 I'm Sourov Basu
-🌟 **MERN Stack Developer | Full-Stack Developer**
+## Hello dev, 👋 I'm Sourov Basu. Welcome to my profile
+🌟 **MERN Stack Developer | Full-Stack Developer**   
+
+<h3 align="center">Coding with passion, delivering with excellence</h3>   
+
+---
 
 - 🤍 Committed to JS
-- 🤍 Interested in Programming
+- 🤍 Coding Enthusiast
 - 🤍 MERN Stack Developer
 - 🤍 Focused on continuous learning of tech stacks
 - 🤍 Bachelor degree in CSE
