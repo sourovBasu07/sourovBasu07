@@ -35,7 +35,7 @@
 - **Portfolio**: https://sourovbasu07.vercel.app/
 - **LinkedIn**: https://www.linkedin.com/in/sourovbasu07/
 - **Twitter**: https://www.x.com/learn_react_07/
-- **Email**: souravbasu123456@gmail.com
+- **Email**: sourovbasu07@gmail.com
 
 ---
 
